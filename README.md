@@ -6,7 +6,7 @@ can't be done.**
 
 Monitor mode works. `aireplay-ng --test` returns 30/30. The whole rig comes up on
 a double-click.
-
+![Monitor mode running on WSL2: terminal, live Wireshark capture, and the repo](screenshot-monitor-mode.png)
 ---
 
 ## Quick start (if you already have the custom kernel built)
